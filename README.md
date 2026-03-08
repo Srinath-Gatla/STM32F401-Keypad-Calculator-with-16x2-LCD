@@ -250,8 +250,4 @@ LCD Display:
 Embedded Systems Enthusiast
 Focused on **STM32 Driver Development and Low-Level Programming**
 
----
 
-## ⭐ If you like this project
-
-Give the repository a **star ⭐ on GitHub** and feel free to contribute!
